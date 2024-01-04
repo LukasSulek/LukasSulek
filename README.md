@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lukáš Šulek
+- 👋 Hi, I’m Lukáš Šulek, a highschool graduate and software developer wannabe
 - 👀 I’m interested in programming, gaming and calisthenics
 - 🌱 I’m currently learning ASP.NET, git, HTML, CSS, JavaScript and improving in C#
 - 📫 How to reach me: lukassulek2004@gmail.com
